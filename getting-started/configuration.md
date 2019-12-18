@@ -33,8 +33,6 @@ If you would like to add custom start parameters, you can edit `serverparam` var
 `serverparam="-tickrate 64 -usercon"`
 
 {% hint style="info" %}
-Each game server has their own command-line parameters.
-
-[https://developer.valvesoftware.com/wiki/Command\_Line\_Options\#Command-line\_parameters\_3](https://developer.valvesoftware.com/wiki/Command_Line_Options#Command-line_parameters_3)
+More parameters: [https://developer.valvesoftware.com/wiki/Command\_Line\_Options](https://developer.valvesoftware.com/wiki/Command_Line_Options#Command-line_parameters_3)
 {% endhint %}
 
