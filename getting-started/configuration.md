@@ -2,24 +2,24 @@
 
 ## WindowsGSM.cfg
 
-WindowsGSM.cfg will be auto-created after the game server installed successfully.
+WindowsGSM.cfg will be auto-created after the game server installed successfully. This config file's values will be loaded as server start parameters. 
 
-
+Sample of [Minecraft: Java Edition Server](../game-servers/supported-game-servers/minecraft-java-edition.md)'s WindowsGSM.cfg
 
 ```text
-servergame=""
-servername=""
-serverip=""
-serverport=""
-servermap=""
-servermaxplayer=""
+servergame="Minecraft: Java Edition Server"
+servername="WindowsGSM - Server #1"
+serverip="10.0.0.2"
+serverport="25565"
+servermap="world"
+servermaxplayer="20"
 servergslt=""
-serverparam=""
+serverparam="-Xmx1024M -Xms1024M"
 
-autorestart=""
-updateonstart=""
+autorestart="1"
+updateonstart="0"
 
-discordalert=""
+discordalert="0"
 discordwebhook=""
 
 ```
@@ -28,7 +28,7 @@ discordwebhook=""
 | :--- | :--- | :--- |
 | `servergame` | _&lt;auto-generate&gt;_ | Define the game type \(**DO NOT EDIT**\) |
 | `servername` | _&lt;auto-generate&gt;_ | Define the display name of the server |
-| `serverip` | _&lt;auto-generate&gt;_ | server IP |
+| `serverip` | _&lt;local-IP&gt;_ | server IP |
 | `serverport` | _&lt;auto-generate&gt;_ | server Port |
 | `servermap` | _&lt;auto-generate&gt;_ | server Map |
 | `servermaxplayer` | _&lt;auto-generate&gt;_ | server Max Players |
