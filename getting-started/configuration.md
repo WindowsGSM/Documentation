@@ -2,7 +2,7 @@
 
 ## WindowsGSM.cfg
 
-WindowsGSM.cfg will be auto-created after the game server installed successfully. This config file stores the most common parameters like _IP_, _port_, _map_ and _maxplayer_. These values will be loaded as server start parameters. If you like to add custom start parameters, see \#additional-parameters. 
+WindowsGSM.cfg will be auto-created after the game server installed successfully. This config file stores the most common parameters like _IP_, _port_, _map_, _maxplayer,_ etc. These values will be loaded as server start parameters. If you would like to add custom start parameters, see \#additional-parameters below. 
 
 Sample of [Minecraft: Java Edition Server](../game-servers/supported-game-servers/minecraft-java-edition.md)'s WindowsGSM.cfg
 
@@ -26,5 +26,15 @@ discordwebhook=""
 
 ### Additional Parameters
 
+If you would like to add custom start parameters, you can edit `serverparam` variable. The values in `serverparam` will be added into the start parameter.
 
+#### Example
+
+`serverparam="-tickrate 64 -usercon"`
+
+{% hint style="info" %}
+Each game server has their own command-line parameters.
+
+[https://developer.valvesoftware.com/wiki/Command\_Line\_Options\#Command-line\_parameters\_3](https://developer.valvesoftware.com/wiki/Command_Line_Options#Command-line_parameters_3)
+{% endhint %}
 
