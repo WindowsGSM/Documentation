@@ -5,10 +5,8 @@
 ## GETTING STARTED
 
 * [Installation](getting-started/installation.md)
-
-## Features
-
-* [Untitled](features/untitled.md)
+* [Updating](getting-started/untitled.md)
+* [Configuration](getting-started/configuration.md)
 
 ## GAME SERVERS
 
@@ -24,8 +22,11 @@
   * [Rust](game-servers/supported-game-servers/rust.md)
   * [Team Fortress 2](game-servers/supported-game-servers/team-fortress-2.md)
 
+## Features
+
+* [Discord Alert](features/untitled.md)
+
 ## Support
 
 * [Discord](https://discord.gg/bGc7t2R)
-* [Untitled](support/untitled.md)
 
