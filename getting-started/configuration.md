@@ -22,18 +22,18 @@ discordwebhook=""
 
 | Key | Default value | Usage |
 | :--- | :--- | :--- |
-| servergame | &lt;auto-generate&gt; | Define the game type \(DO NOT EDIT\) |
-| servername | &lt;auto-generate&gt; | Define the display name of the server |
-| serverip | &lt;auto-generate&gt; | Server IP |
-| serverport | &lt;auto-generate&gt; | Server Port |
-| servermap | &lt;auto-generate&gt; | Server Map |
-| servermaxplayer | &lt;auto-generate&gt; | Server Maxplayers |
-| servergslt |  | Server GSLT |
-| serverparam | &lt;auto-generate&gt; | Server  |
-| autorestart | 1 | 1 = Enable / 0 = Disable Auto  |
-| updateonstart | 0 | 1 = Enable / 0 = Disable Auto  |
-| discordalert | 0 |  |
-| discordwebhook |  |  |
+| servergame | _&lt;auto-generate&gt;_ | Define the game type \(DO NOT EDIT\) |
+| servername | _&lt;auto-generate&gt;_ | Define the display name of the server |
+| serverip | _&lt;auto-generate&gt;_ | server IP |
+| serverport | _&lt;auto-generate&gt;_ | server Port |
+| servermap | _&lt;auto-generate&gt;_ | server Map |
+| servermaxplayer | _&lt;auto-generate&gt;_ | server Max Players |
+| servergslt |  | server GSLT |
+| serverparam | _&lt;auto-generate&gt;_ | Server  |
+| autorestart | `1` | `1`= Enable / `0` = Disable auto restart function |
+| updateonstart | `0` | `1` = Enable / `0` = Disable update on start function  |
+| discordalert | `0` | `1` = Enable / `0` = Disable discord alert function |
+| discordwebhook |  | Discord Webhook URL |
 
 
 
