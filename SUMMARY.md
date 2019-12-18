@@ -8,6 +8,7 @@
 
 ## GAME SERVERS
 
-* [Counter-Strike: 1.6](counter-strike-1.6.md)
-* [Untitled](untitled.md)
+* [Supported Game Servers](game-servers/untitled/README.md)
+  * [Counter-Strike: 1.6](game-servers/untitled/counter-strike-1.6.md)
+  * [Counter-Strike: Condition Zero](game-servers/untitled/counter-strike-condition-zero.md)
 
