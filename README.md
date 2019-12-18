@@ -1,8 +1,6 @@
 ---
-description: WindowsGSM is a game server manager on Windows Platform.
+description: Welcome to WindowsGSM Documentation - Powered by GitBook
 ---
 
 # Introduction
-
-
 
