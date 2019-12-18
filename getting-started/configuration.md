@@ -1,2 +1,8 @@
 # Configuration
 
+## WindowsGSM.cfg
+
+```text
+
+```
+

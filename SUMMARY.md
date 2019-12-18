@@ -1,6 +1,6 @@
 # Table of contents
 
-* [WindowsGSM Documentation](README.md)
+* [Introduction](README.md)
 
 ## GETTING STARTED
 
