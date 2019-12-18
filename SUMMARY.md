@@ -6,6 +6,10 @@
 
 * [Installation](getting-started/installation.md)
 
+## Features
+
+* [Untitled](features/untitled.md)
+
 ## GAME SERVERS
 
 * [Supported Game Servers](game-servers/supported-game-servers/README.md)
@@ -19,4 +23,9 @@
   * [Minecraft: Pocket Edition](game-servers/supported-game-servers/minecraft-pocket-edition.md)
   * [Rust](game-servers/supported-game-servers/rust.md)
   * [Team Fortress 2](game-servers/supported-game-servers/team-fortress-2.md)
+
+## Support
+
+* [Discord](https://discord.gg/bGc7t2R)
+* [Untitled](support/untitled.md)
 
