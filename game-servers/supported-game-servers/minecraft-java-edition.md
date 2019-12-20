@@ -25,7 +25,7 @@ You are required to indicate your agreement to EULA. \(https://account.mojang.co
 3. Done! 🥳
 
 {% hint style="info" %}
-You are required to port forward to allows the server accessible on the internet.
+You are required to port forward to allow the server accessible on the internet.
 {% endhint %}
 
 
