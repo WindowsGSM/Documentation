@@ -28,7 +28,9 @@ You are required to indicate your agreement to EULA. \(https://account.mojang.co
 You are required to port forward to allow the server accessible on the internet.
 {% endhint %}
 
+## Need support?
 
+Join our discord server \([https://discord.gg/bGc7t2R](https://discord.gg/bGc7t2R)\)
 
 
 
