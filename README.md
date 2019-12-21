@@ -20,13 +20,15 @@ If you were a gamer or developer, you can create a server by just one-click inst
 
 ## Features
 
-* One-click install 
-* One-click import
-* One-click backup and restore
-* Server crash detection
-* One-click Start, Stop, Restart, Toggle Console, Update
+{% page-ref page="features/install-import.md" %}
 
-#### 
+{% page-ref page="features/start-stop-restart.md" %}
+
+{% page-ref page="features/backup-restore.md" %}
+
+{% page-ref page="features/auto-restart.md" %}
+
+{% page-ref page="features/update-on-start.md" %}
 
 {% page-ref page="features/discord-alert.md" %}
 

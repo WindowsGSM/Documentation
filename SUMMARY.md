@@ -24,9 +24,9 @@
 
 ## Features
 
-* [Install, Import](features/one-click-install-import.md)
-* [Start, Stop, Restart](features/one-click-start-stop-restart.md)
-* [Backup, Restore](features/one-click-backup-restore.md)
+* [Install, Import](features/install-import.md)
+* [Start, Stop, Restart](features/start-stop-restart.md)
+* [Backup, Restore](features/backup-restore.md)
 * [Auto Restart](features/auto-restart.md)
 * [Update on Start](features/update-on-start.md)
 * [Discord Alert](features/discord-alert.md)
