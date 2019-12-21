@@ -6,7 +6,6 @@
 
 * [Installation](getting-started/installation.md)
 * [Updating](getting-started/untitled.md)
-* [Configuration](getting-started/configuration.md)
 
 ## GAME SERVERS
 
@@ -21,6 +20,7 @@
   * [Minecraft: Pocket Edition](game-servers/supported-game-servers/minecraft-pocket-edition.md)
   * [Rust](game-servers/supported-game-servers/rust.md)
   * [Team Fortress 2](game-servers/supported-game-servers/team-fortress-2.md)
+* [Configuration](game-servers/configuration.md)
 
 ## Features
 

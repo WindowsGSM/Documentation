@@ -4,7 +4,7 @@
 
 WindowsGSM.cfg will be auto-created after the game server installed successfully. This config file stores the most common parameters like _IP_, _port_, _map_, _maxplayer,_ etc. These values will be loaded as server start parameters. If you would like to add custom start parameters, see \#additional-parameters below. 
 
-Sample of [Minecraft: Java Edition Server](../game-servers/supported-game-servers/minecraft-java-edition.md)'s WindowsGSM.cfg
+Sample of [Minecraft: Java Edition Server](supported-game-servers/minecraft-java-edition.md)'s WindowsGSM.cfg
 
 ```text
 servergame="Minecraft: Java Edition Server"
