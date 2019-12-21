@@ -1,2 +1,2 @@
-# One-click Backup, Restore
+# Backup, Restore
 

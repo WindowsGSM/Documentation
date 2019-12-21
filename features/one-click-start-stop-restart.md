@@ -1,2 +1,2 @@
-# One-click Start, Stop, Restart
+# Start, Stop, Restart
 

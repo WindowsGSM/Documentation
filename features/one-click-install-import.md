@@ -1,2 +1,2 @@
-# One-click Install, Import
+# Install, Import
 
