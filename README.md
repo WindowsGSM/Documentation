@@ -16,5 +16,19 @@ description: Welcome to WindowsGSM Documentation - Powered by GitBook
 
 If you were a gamer or developer, you can create a server by just one-click install. The things that you need to do is enjoy your private server and start config your game server.
 
+![](.gitbook/assets/2019-12-21-3.png)
+
+## Features
+
+* One-click install 
+* One-click import
+* One-click backup and restore
+* Server crash detection
+* One-click Start, Stop, Restart, Toggle Console, Update
+
+#### 
+
+{% page-ref page="features/discord-alert.md" %}
+
 
 

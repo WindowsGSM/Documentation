@@ -24,7 +24,10 @@
 
 ## Features
 
-* [Discord Alert](features/untitled.md)
+* [One-click Install, Import](features/one-click-install-import.md)
+* [One-click Start, Stop, Restart](features/one-click-start-stop-restart.md)
+* [One-click Backup, Restore](features/one-click-backup-restore.md)
+* [Discord Alert](features/discord-alert.md)
 
 ## Support
 
