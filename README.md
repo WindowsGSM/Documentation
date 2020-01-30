@@ -20,10 +20,6 @@ If you were a gamer or developer, you can create a server by just one-click inst
 
 ## Features
 
-{% page-ref page="features/install-import.md" %}
-
-{% page-ref page="features/start-stop-restart.md" %}
-
 {% page-ref page="features/backup-restore.md" %}
 
 {% page-ref page="features/auto-restart.md" %}

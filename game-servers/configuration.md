@@ -6,7 +6,7 @@ WindowsGSM.cfg will be auto-created after the game server installed successfully
 
 Sample of [Minecraft: Java Edition Server](supported-game-servers/minecraft-java-edition.md)'s WindowsGSM.cfg
 
-```text
+```csharp
 servergame="Minecraft: Java Edition Server"
 servername="WindowsGSM - Server #1"
 serverip="10.0.0.2"
@@ -15,10 +15,10 @@ servermap="world"
 servermaxplayer="20"
 servergslt=""
 serverparam="-Xmx1024M -Xms1024M"
-
-autorestart="1"
+autorestart="0"
+autostart="0"
+autoupdate="0"
 updateonstart="0"
-
 discordalert="0"
 discordwebhook=""
 
