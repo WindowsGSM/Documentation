@@ -10,23 +10,19 @@ description: Welcome to WindowsGSM Documentation - Powered by GitBook
 
 {% page-ref page="getting-started/installation.md" %}
 
+{% page-ref page="getting-started/features.md" %}
+
 {% page-ref page="getting-started/supported-game-servers/" %}
 
 ## Why should I use this software?
 
 If you were a gamer or developer, you can create a server by just one-click install. The things that you need to do is enjoy your private server and start config your game server.
 
-![](.gitbook/assets/2019-12-21-3.png)
+![](.gitbook/assets/windowsgsm-v1.9.0.png)
 
-## Features
+## Discord
 
-{% page-ref page="features/backup-restore.md" %}
-
-{% page-ref page="features/auto-restart.md" %}
-
-{% page-ref page="features/update-on-start.md" %}
-
-{% page-ref page="features/discord-alert.md" %}
+Join our Discord server - [https://discord.gg/bGc7t2R](https://discord.gg/bGc7t2R)
 
 
 
