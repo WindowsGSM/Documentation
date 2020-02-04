@@ -5,25 +5,25 @@
 ## GETTING STARTED
 
 * [Installation](getting-started/installation.md)
-* [Create your first Game Server!](getting-started/create-your-first-game-server.md)
+* [Configuration](getting-started/configuration.md)
+* [Supported Game Servers](getting-started/supported-game-servers/README.md)
+  * [7 Days to Die](getting-started/supported-game-servers/7-days-to-die.md)
+  * [Counter-Strike: 1.6](getting-started/supported-game-servers/counter-strike-1.6.md)
+  * [Counter-Strike: Condition Zero](getting-started/supported-game-servers/counter-strike-condition-zero.md)
+  * [Counter-Strike: Global Offensive](getting-started/supported-game-servers/counter-strike-global-offensive.md)
+  * [Garry's Mod](getting-started/supported-game-servers/garrys-mod.md)
+  * [Grand Theft Auto V](getting-started/supported-game-servers/grand-theft-auto-v.md)
+  * [Half-Life 2: Deathmatch](getting-started/supported-game-servers/half-life-2-deathmatch.md)
+  * [Left 4 Dead 2](getting-started/supported-game-servers/left-4-dead-2.md)
+  * [Minecraft: Java Edition](getting-started/supported-game-servers/minecraft-java-edition.md)
+  * [Minecraft: Pocket Edition](getting-started/supported-game-servers/minecraft-pocket-edition.md)
+  * [Mordhau](getting-started/supported-game-servers/mordhau.md)
+  * [Rust](getting-started/supported-game-servers/rust.md)
+  * [Team Fortress 2](getting-started/supported-game-servers/team-fortress-2.md)
 
-## GAME SERVERS
+## Installer
 
-* [Supported Game Servers](game-servers/supported-game-servers/README.md)
-  * [7 Days to Die](game-servers/supported-game-servers/7-days-to-die.md)
-  * [Counter-Strike: 1.6](game-servers/supported-game-servers/counter-strike-1.6.md)
-  * [Counter-Strike: Condition Zero](game-servers/supported-game-servers/counter-strike-condition-zero.md)
-  * [Counter-Strike: Global Offensive](game-servers/supported-game-servers/counter-strike-global-offensive.md)
-  * [Garry's Mod](game-servers/supported-game-servers/garrys-mod.md)
-  * [Grand Theft Auto V](game-servers/supported-game-servers/grand-theft-auto-v.md)
-  * [Half-Life 2: Deathmatch](game-servers/supported-game-servers/half-life-2-deathmatch.md)
-  * [Left 4 Dead 2](game-servers/supported-game-servers/left-4-dead-2.md)
-  * [Minecraft: Java Edition](game-servers/supported-game-servers/minecraft-java-edition.md)
-  * [Minecraft: Pocket Edition](game-servers/supported-game-servers/minecraft-pocket-edition.md)
-  * [Mordhau](game-servers/supported-game-servers/mordhau.md)
-  * [Rust](game-servers/supported-game-servers/rust.md)
-  * [Team Fortress 2](game-servers/supported-game-servers/team-fortress-2.md)
-* [Configuration](game-servers/configuration.md)
+* [SteamCMD](installer/steamcmd.md)
 
 ## Features
 

@@ -10,7 +10,7 @@ description: Welcome to WindowsGSM Documentation - Powered by GitBook
 
 {% page-ref page="getting-started/installation.md" %}
 
-{% page-ref page="game-servers/supported-game-servers/" %}
+{% page-ref page="getting-started/supported-game-servers/" %}
 
 ## Why should I use this software?
 
