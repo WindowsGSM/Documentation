@@ -16,9 +16,9 @@ description: Welcome to WindowsGSM Documentation - Powered by GitBook
 
 ## Why should I use this software?
 
-As a gamer or developer, you can create your very own dedicated game server with our one-click install. All that is left to do is to enjoy your private server and start config for your game server, which are all easily accessible with our user-friendly gui.
+As a gamer or developer, you can create your very own dedicated game server with our one-click install. All that is left to do is to enjoy your private server and start config for your game server, which are all easily accessible with our user-friendly GUI.
 
-![](.gitbook/assets/windowsgsm-v1.9.0.png)
+![WindowsGSM v1.19.0](.gitbook/assets/windowsgsm-v1.19.0-1-.png)
 
 ## Discord
 

@@ -4,15 +4,21 @@ description: Instruction of installation
 
 # Installation
 
-### 1. Download the latest version of WindowsGSM
+## 1. Dependencies
 
-🔻 Link: [https://github.com/BattlefieldDuck/WindowsGSM/releases/latest/download/WindowsGSM.exe](https://github.com/BattlefieldDuck/WindowsGSM/releases/latest/download/WindowsGSM.exe)
+1. **.NET Framework 4.7.2** \([https://dotnet.microsoft.com/download/dotnet-framework/net472](https://dotnet.microsoft.com/download/dotnet-framework/net472)\)
 
-### 2. Drag and drop WindowsGSM.exe to a new directory
+{% hint style="danger" %}
+WindowsGSM may not be fully functional if .NET Framework 4.7.2 is not installed.
+{% endhint %}
 
-🔻 Example: `C://WindowsGSM/WindowsGSM.exe`
+## 2. Installation
 
-Run and done! 
+   1. Download the latest version here: \([https://windowsgsm.com/download/](https://windowsgsm.com/download/)\)
+
+   2. Drag and drop **WindowsGSM.exe** to a new directory
+
+   3. Run **WindowsGSM.exe**  👍
 
 {% hint style="success" %}
 The game server files, log and installer will be auto-generated in the new directory.
