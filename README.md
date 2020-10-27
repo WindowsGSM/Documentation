@@ -6,7 +6,8 @@ description: Welcome to WindowsGSM Documentation - Powered by GitBook
 
 ![](.gitbook/assets/httpslogomakr.com81tlq8.png)
 
-**WindowsGSM** - The best game server manager works on Windows platform, developed by ![](.gitbook/assets/29337428.jpg)[TatLead](https://github.com/BattlefieldDuck). WindowsGSM is inspired by another similar project by the name of [LinuxGSM](https://linuxgsm.com/), which is a command-line tool for quick and simple deployment and management of Linux dedicated game servers.
+**WindowsGSM** - The best game server manager works on Windows platform, developed by [TatLead](https://github.com/BattlefieldDuck) 
+WindowsGSM is inspired by another similar project by the name of [LinuxGSM](https://linuxgsm.com/), which is a command-line tool for quick and simple deployment and management of Linux dedicated game servers.
 
 ![Installation Instructions](getting-started/installation.md)
 
