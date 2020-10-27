@@ -22,5 +22,8 @@ In WindowsGSM, click on "ADD ADMIN ID" and paste in the User ID.
 Finally, right click on the channel that you'd like the bot in and copy that ID. This will be put in "Dashboard Channel ID" line in WindowsGSM to designate which channel the bot will submit status reports, etc.
 
 ## Step 5: Invite and Test
-The final step is inviting the bot to your Discord server. Simply click the "INVITE" button and your bot should join.
-Feel free to attempt commands, being sure to use the prefix you defined in *step 3*.
+The final step is inviting the bot to your Discord server. 
+
+Hit the "Enable" toggle switch and make sure the log shows that the Discord bot started properly. Then, simply click the "INVITE" button and your bot should join.
+
+Feel free to attempt commands, being sure to use the prefix you defined in *step 3* and in a channel that the bot has access to.
