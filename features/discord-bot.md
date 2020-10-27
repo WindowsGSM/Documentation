@@ -1,4 +1,5 @@
 # Discord Bot Setup and Configuration
+![Screenshot DiscordBot](https://windowsgsm.com/assets/images/WindowsGSM-DiscordBot-v1.18.0.png)
 
 ## Step 1: Create a new Discord Application
 Follow the [Generating your Discord Bot Token](https://www.writebots.com/discord-bot-token/#Generating_Your_Token_StepbyStep) guide to create a new Discord application.
