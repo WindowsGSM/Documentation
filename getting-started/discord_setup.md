@@ -16,10 +16,13 @@
 <ol>
   <li>In WindowsGSM, go to the Discord tab</li>
   <li>Click "Edit" next to "Discord Bot Token", paste in the copied token, and click "Save"</li>
-  <li>CLick on the "Invite" button near the top<br><b>This will take you to Discord.</b></li>
+  <li>Enable the bot by turning on the toggle under "Enable"</li>
+  <li>Click on the "Invite" button near the top<br><b>This will take you to Discord.</b></li>
   <li>Select the correct server from the list and click continue</li>
   <li>Review and authorize the requested permissions.</li>
 </ol>
+
+You should see the bot join the server.
 
 ## Setup Admin Accounts
 You will need to explicitly provide which Discord users will be permitted to use the bot commands. Each admin user will need to perform these steps.
@@ -27,18 +30,20 @@ You will need to explicitly provide which Discord users will be permitted to use
 ### Get User ID from Discord
 <ol>
   <li>In Discord, find the user to be added as an admin. This can be done from a post or the members list in a server</li>
-  <li>Right-click on the user and select "Copy User ID"</li>
+  <li>Right-click on the user and select "Copy User ID"<br><code>&#x26A0;&#xFE0F; The user ID is a string of numbers.</code></li>
 </ol>
 
 ### Add Admin User to WindowsGSM
 <ol>
   <li>Go to the Discord tab in WindowsGSM</li>
   <li>Click "ADD ADMIN ID" in the upper-right</li>
-  <li>Paste in the ID provided from above<br><b>By default, the admin will have permissions to manage all servers. If they should only have permissions for specific servers, continue to the next step. Otherwise, stop here.</b></li>
+  <li>Paste in the ID provided from above<br><code>&#x26A0;&#xFE0F; The user ID is a string of numbers.</code><br><code>&#x26A0;&#xFE0F; By default, the admin will have permissions to manage all servers. If they should only have permissions for specific servers, continue to the next step. Otherwise, stop here.</code></li>
   <li>Click "EDIT SERVER ID" in the upper-right</li>
-  <li>Provide a list of server IDs they should be able to manage using the provided sample format![image](https://github.com/WindowsGSM/Documentation/assets/49689423/2960d96f-72fc-4f69-bbf8-399fd2b421c2)
-</li>
+  <li>Provide a list of server IDs they should be able to manage using the provided sample format!</li>
 </ol>
+
+### Check Setup
+From any channel the bot has access to, send a message of "wgsm chec" (without the quotes) and verify that you get a response. If not, double-check 
 
 ## Discord Webhooks
 These are used to provide notifications for server status changes. Webhooks are setup per server in WindowsGSM. This allows for setting up a webhook per channel in Discord per server in WindowsGSM. This allows for granularity so that notifications for a particular game server are only posted in the relevant Discord channel. All game servers can be setup with a single webhook to have all notifications posted to a single channel in Discord.
@@ -65,7 +70,7 @@ These are used to provide notifications for server status changes. Webhooks are 
 From here, you can configure some of the alert behaviors. 
 
 #### Set Message
-This is a preconfigured, static message that will always been shown when the alert fires. This can be set to mention a user for push notifications/alerts from Discord. To do so, get the user's ID from the section above "Get User ID from Discord" and use it in the text field following the example formatting shown.<br><b>The carrots ARE REQUIRED for @ notifications to work</b>
+This is a preconfigured, static message that will always been shown when the alert fires. This can be set to mention a user for push notifications/alerts from Discord. To do so, get the user's ID from the section above "Get User ID from Discord" and use it in the text field following the example formatting shown.<br><code>&#x26A0;&#xFE0F; The carrots ARE REQUIRED for @ notifications to work</code>
 
 #### Settings
 This allows you to select from a list of events that will trigger an alert through the webhook.
