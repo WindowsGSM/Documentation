@@ -26,11 +26,8 @@ You will need to explicitly provide which Discord users will be permitted to use
 
 ### Get User ID from Discord
 <ol>
-  <li>In Discord, go to "Settings"</li>
-  <li>In the "App Settings" section, select the "Advaned" option</li>
-  <li>Enable "Developer Mode" and exit the settings menu</li>
-  <li>Select your profile icon in the bottom-left corner and click "Copy User ID</li>
-  <li>Provide this to the WindowsGSM admin</li>
+  <li>In Discord, find the user to be added as an admin. This can be done from a post or the members list in a server</li>
+  <li>Right-click on the user and select "Copy User ID"</li>
 </ol>
 
 ### Add Admin User to WindowsGSM
@@ -44,4 +41,31 @@ You will need to explicitly provide which Discord users will be permitted to use
 </ol>
 
 ## Discord Webhooks
-These are used to provide notifications for server status changes. Webhooks are setup per server in WindowsGSM. This allows for setting up a webhook per channel in Discord per server
+These are used to provide notifications for server status changes. Webhooks are setup per server in WindowsGSM. This allows for setting up a webhook per channel in Discord per server in WindowsGSM. This allows for granularity so that notifications for a particular game server are only posted in the relevant Discord channel. All game servers can be setup with a single webhook to have all notifications posted to a single channel in Discord.
+
+### Generate Webhook URL
+<ol>
+  <li>In Discord, go to the channel where you'd like the alerts to be sent for the game server</li>
+  <li>Right-click the channel name and select "Edit Channel"</li>
+  <li>Select "Integrations from the left-hand menu</li>
+  <li>Click on "Create Webhook"<br><b>If you already have a webhook setup, click on "View Webhooks" and then select "New Webhook" instead</b><br><b>The webhook name will autogenerate</b></li>
+  <li>Select the newly created webhook</li>
+  <li>Click on "Copy Webhook URL"<br><b>You can optionally rename the webhook as well, but this is not required.</b></li>
+</ol>
+
+### Setup Webhook in WindowsGSM
+<ol>
+  <li>Select the game server from the list in WindowsGSM that you want to setup the webhook for</li>
+  <li>In the settings pane (bottom left-hand), click on "Edit" next to "Discord Alert"</li>
+  <li>Paste in the webhook URL copied from above and click save</li>
+  <li>Turn on the toggle next to "Discord Alert"</li>
+  <li>Click on "Test Alert" and you should see a message pop into the Discord channel</li>
+</ol>
+
+From here, you can configure some of the alert behaviors. 
+
+#### Set Message
+This is a preconfigured, static message that will always been shown when the alert fires. This can be set to mention a user for push notifications/alerts from Discord. To do so, get the user's ID from the section above "Get User ID from Discord" and use it in the text field following the example formatting shown.<br><b>The carrots ARE REQUIRED for @ notifications to work</b>
+
+#### Settings
+This allows you to select from a list of events that will trigger an alert through the webhook.
