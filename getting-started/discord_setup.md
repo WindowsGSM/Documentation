@@ -21,10 +21,10 @@
   <li>Review and authorize the requested permissions.</li>
 </ol>
 
-### Setup Admin Accounts
+## Setup Admin Accounts
 You will need to explicitly provide which Discord users will be permitted to use the bot commands. Each admin user will need to perform these steps.
 
-#### Get User ID from Discord
+### Get User ID from Discord
 <ol>
   <li>In Discord, go to "Settings"</li>
   <li>In the "App Settings" section, select the "Advaned" option</li>
@@ -33,7 +33,7 @@ You will need to explicitly provide which Discord users will be permitted to use
   <li>Provide this to the WindowsGSM admin</li>
 </ol>
 
-#### Add Admin User to WindowsGSM
+### Add Admin User to WindowsGSM
 <ol>
   <li>Go to the Discord tab in WindowsGSM</li>
   <li>Click "ADD ADMIN ID" in the upper-right</li>
